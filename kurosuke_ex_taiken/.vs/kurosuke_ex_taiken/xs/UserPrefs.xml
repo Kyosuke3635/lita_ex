@@ -1,41 +1,35 @@
 ﻿<Properties StartupConfiguration="{07DE9198-5873-B297-A8B8-6922EB1DF186}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Enemy4Move.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BGM_loop.cs">
     <Files>
-      <File FileName="Assets/PlayerMove.cs" Line="44" Column="57" />
-      <File FileName="Assets/CameraMove.cs" Line="22" Column="70" />
-      <File FileName="Assets/TrapMove.cs" Line="16" Column="35" />
-      <File FileName="Assets/enemyMove.cs" Line="29" Column="41" />
-      <File FileName="Assets/Enemy2Move.cs" Line="40" Column="6" />
-      <File FileName="Assets/Enemy3Move.cs" Line="34" Column="27" />
-      <File FileName="Assets/Enemy4Move.cs" Line="33" Column="33" />
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="129" Column="42" />
+      <File FileName="Assets/Scripts/CameraMove.cs" />
+      <File FileName="Assets/Scripts/TimeCount.cs" />
+      <File FileName="Assets/Scripts/NextStage.cs" />
+      <File FileName="Assets/Scripts/Retry.cs" />
+      <File FileName="Assets/Scripts/BackToTitle.cs" />
+      <File FileName="Assets/Scripts/ChangeColor.cs" />
+      <File FileName="Assets/Scripts/GameStart.cs" />
+      <File FileName="Assets/Scripts/TrapMove.cs" />
+      <File FileName="Assets/Scripts/TrapMove2.cs" />
+      <File FileName="Assets/Scripts/BGM_loop.cs" Line="18" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="kurosuke_ex_taiken" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Enemy4Move.cs" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerMove.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>10 ^ a</Value>
-          <Value>Mathf.Pow(10, a)</Value>
-          <Value>Mathf.Pow(10f, (float)a)</Value>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="kurosuke_ex_taiken" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dec12322-9f49-4850-9120-bc5743d948a2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="07f15cad-303b-475d-a27d-e48df4c25d60" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
